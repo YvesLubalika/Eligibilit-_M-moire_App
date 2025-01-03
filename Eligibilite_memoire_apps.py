@@ -2,7 +2,7 @@ import streamlit as st
 
 
 # Eligibilité à la soutenance
-st.title("Évaluation de l'Éligibilité pour la Défense de Recherche de Fin d'Études")
+st.title("'Éligibilité pour la Défense de Recherche de Fin d'Études")
 
 # Entrée des informations de l'étudiant
 
